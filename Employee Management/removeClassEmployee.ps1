@@ -1,4 +1,4 @@
-$Path = 'C:\PS'
+$Path = 'C:\PS\Employee Management'
 . $Path\Connect-O365Services.ps1
 . $Path\Replicate-allDomainControllers.ps1
 

@@ -1,4 +1,4 @@
-$Path = 'C:\PS'
+$Path = 'C:\PS\Employee Management'
 . $Path\newClassEmployee.ps1
 
 function BulkNewUsers {

@@ -4,7 +4,7 @@ Version : 1.0
 Date: 07/06/2022
 #>
 
-$Path = 'C:\PS'
+$Path = 'C:\PS\Employee Management'
 . $Path\Connect-O365Services.ps1
 . $Path\Replicate-allDomainControllers.ps1
 
